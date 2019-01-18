@@ -1,0 +1,1 @@
+/homes/3/whitaker.213/geo-emb/pretrained-embeddings/top_10000_emb.txt
